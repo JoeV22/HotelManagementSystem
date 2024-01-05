@@ -8,5 +8,11 @@
     }
     .header {
         color: white;
-
+    }
+    .footer {
+        background-color: blue;
+        margin: 25%;
+        padding: 25%;
+        align-items: center;
+        justify-content: center;
     }
